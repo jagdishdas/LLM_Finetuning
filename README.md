@@ -1,5 +1,3 @@
-Here’s a more detailed **README** file, keeping it informative but clear:
-
 ---
 
 # Fine-Tuning ViT, GPT-4, Whisper, and LLaMA Models
